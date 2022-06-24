@@ -1,0 +1,1 @@
+/Users/michaelwimberley/personal-projects/lox-rust/tool/target/debug/tool: /Users/michaelwimberley/personal-projects/lox-rust/tool/src/generate_ast.rs /Users/michaelwimberley/personal-projects/lox-rust/tool/src/main.rs

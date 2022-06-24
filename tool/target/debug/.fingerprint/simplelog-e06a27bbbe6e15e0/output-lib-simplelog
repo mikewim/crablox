@@ -1,0 +1,1 @@
+WARN rustc_metadata::locator no metadata found: incompatible metadata version found: '/Users/michaelwimberley/personal-projects/lox-rust/tool/target/debug/deps/libtime_macros-9df16932775be61b.dylib'
